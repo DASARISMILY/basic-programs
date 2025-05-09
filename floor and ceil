@@ -1,0 +1,5 @@
+# floor and ceil
+from math import floor,ceil
+num=7.9
+print("fllor:",floor(num))
+print("ceil:",ceil(num))
