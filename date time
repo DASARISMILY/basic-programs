@@ -1,0 +1,3 @@
+print("current time:",now)
+print("date:",now.date())
+print("time:",now.time())
